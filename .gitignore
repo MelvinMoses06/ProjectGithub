@@ -1,0 +1,14 @@
+# Eclipse IDE files
+.project
+.classpath
+.settings/
+
+# Maven build output
+target/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
