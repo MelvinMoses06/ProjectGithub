@@ -16,5 +16,10 @@ public class Github {
 		
 		System.out.println("Orange");
 	}
+	
+	public void kiwi() {
+		
+		System.out.println("Kiwi");
+	}
 
 }
